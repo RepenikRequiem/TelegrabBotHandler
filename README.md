@@ -1,2 +1,2 @@
 # TelegrabBotHandler
-It`s partialy training project, basicaly it`s a class to ease work with Telegram Bot API
+it is just a training project to work with API, Telegram in particular.
